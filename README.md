@@ -1,2 +1,2 @@
 # Dinasour-Project
-Simple Game With C++
+Simple Game With HTML,CSS and JS
